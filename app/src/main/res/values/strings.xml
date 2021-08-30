@@ -6,6 +6,4 @@
     <string name="password">Password</string>
     <string name="txt_powered_by">Powered By</string>
     <string name="logout">Logout</string>
-    <string name="msg_success_login">Login com Sucesso</string>
-    <string name="msg_fail_login">Falha no Login</string>
 </resources>
